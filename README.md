@@ -1,54 +1,132 @@
-# Learn Basic Mathematics Roadmap 📘✨
+# 📘 Mastering Basic Mathematics Roadmap  
 
-This is a **Learn Basic Mathematics Roadmap** — a complete topic & subtopic map of core math basics.  
-Use the practice site below to find worksheets for any topic you study.
-
-**Practice worksheets (search topics):** https://www.liveworksheets.com/
+This is a complete roadmap for learning and mastering **Basic Mathematics** step by step.  
+Use this as your study guide during vacation or regular practice.  
 
 ---
 
-## 1. Numbers & Place Value 🔢
-- Natural numbers, whole numbers, integers  
-- Place value & digit positions  
-- Number line & ordering  
-- Rounding & estimation  
-- Comparing numbers
+## 🔗 Resources  
+- 📄 Practice Worksheets: [https://www.liveworksheets.com](https://www.liveworksheets.com)  
+- 📚 Book: [Super Simple Maths PDF Download](https://archive.org/details/super-simple-maths)  
 
 ---
 
-## 2. Arithmetic Operations ➕➖✖️➗
-- Addition (single & multi-digit)  
-- Subtraction (single & multi-digit)  
-- Multiplication (tables, multi-digit)  
-- Division (short division, long division)  
-- Mental math & estimation
+# 1️⃣ Numbers & Operations  
+## ➤ Number Systems  
+- Natural Numbers  
+- Whole Numbers  
+- Integers  
+- Negative Numbers  
+- Absolute Value  
 
----
+## ➤ Arithmetic Operations  
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Order of Operations (PEMDAS / BODMAS)  
 
-## 3. Factors & Multiples 🧩
-- Factors & common factors  
-- Multiples & common multiples  
-- Prime & composite numbers  
-- Greatest Common Factor (GCF) / Highest Common Factor (HCF)  
+## ➤ Factors & Multiples  
+- Factors  
+- Multiples  
+- Prime Numbers  
 - Least Common Multiple (LCM)  
-- Divisibility rules
+- Greatest Common Factor (GCF)  
 
 ---
 
-## 4. Fractions & Mixed Numbers 🥧
-- Fraction basics (numerator, denominator)  
-- Types: proper, improper, mixed numbers  
-- Equivalent fractions & simplifying  
-- Common denominator / LCD  
-- Adding, subtracting, multiplying, dividing fractions  
-- Converting between mixed numbers and improper fractions
+# 2️⃣ Fractions, Decimals & Percentages  
+## ➤ Fractions  
+- Proper, Improper, Mixed Numbers  
+- Simplifying Fractions  
+- Equivalent Fractions  
+- Comparing Fractions  
+- Adding, Subtracting, Multiplying, Dividing Fractions  
+
+## ➤ Decimals  
+- Place Value  
+- Converting Fractions ↔ Decimals  
+- Operations with Decimals  
+
+## ➤ Percentages  
+- Converting Percentages ↔ Fractions ↔ Decimals  
+- Percentage of a Number  
+- Increase & Decrease  
 
 ---
 
-## 5. Decimals & Place Value 🔢➗
-- Decimal place value (tenths, hundredths, thousandths)  
-- Converting between fractions and decimals  
-- Adding, subtracting, multiplying, dividing decimals  
+# 3️⃣ Powers & Roots  
+## ➤ Exponents  
+- Meaning of Exponents  
+- Laws of Exponents  
+- Negative Exponents  
+
+## ➤ Roots  
+- Square Roots  
+- Cube Roots  
+
+## ➤ Advanced Growth  
+- Tetration (Introductory idea)  
+
+---
+
+# 4️⃣ Algebra Basics  
+## ➤ Understanding Variables  
+- What is a variable?  
+- Expressions vs Equations  
+
+## ➤ Solving Simple Equations  
+- Undoing Addition/Subtraction  
+- Undoing Multiplication/Division  
+
+## ➤ Expanding Concepts  
+- Using Both Sides of an Equation  
+- Balancing Method  
+- Word Problems (Basic)  
+
+---
+
+# 5️⃣ Geometry & Measurement  
+## ➤ Lines & Angles  
+- Types of Angles  
+- Complementary & Supplementary Angles  
+- Parallel & Perpendicular Lines  
+
+## ➤ Triangles & Polygons  
+- Types of Triangles  
+- Properties of Triangles  
+- Quadrilaterals  
+- Polygon Angle Sum  
+
+## ➤ Circles  
+- Radius, Diameter, Circumference  
+- Area of Circle  
+
+## ➤ 3D Shapes  
+- Cube, Cuboid, Sphere, Cylinder, Cone  
+- Volume & Surface Area  
+
+---
+
+# 6️⃣ Data & Probability  
+## ➤ Statistics  
+- Collecting Data  
+- Pictographs, Bar Graphs, Line Graphs  
+- Mean, Median, Mode  
+
+## ➤ Probability  
+- Basic Probability (Chance)  
+- Simple Experiments (Dice, Coins, Cards)  
+
+---
+
+# ✅ How to Use This Roadmap  
+- Learn each topic step by step  
+- Use 📄 [Liveworksheets](https://www.liveworksheets.com) for practice  
+- Revise daily for 20 minutes  
+- Refer 📚 *Super Simple Maths* book for extra understanding  
+
+---- Adding, subtracting, multiplying, dividing decimals  
 - Repeating decimals & terminating decimals
 
 ---
