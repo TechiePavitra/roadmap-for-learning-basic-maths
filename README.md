@@ -1,20 +1,108 @@
-# Mastering Mathematics Basics Roadmap
+# 📘 Mastering Mathematics Basics Roadmap
 
-This roadmap covers all core mathematics topics for mastering the basics, with both **Math Antics explanation videos** and **practice worksheets** for each topic.
+This roadmap will help you learn and practice all the core math basics step by step.  
+Videos are from **Math Antics** (easy explanations).  
+For practice worksheets, use 👉 [Liveworksheets](https://www.liveworksheets.com/)
 
 ---
 
-## 1. Numbers & Operations
-- **Natural Numbers, Whole Numbers, Integers**
-- **Negative Numbers & Absolute Value**  
-  - Video: [Math Antics - Negative Numbers](https://www.youtube.com/watch?v=kjEZs4fYbO0)  
-  - Practice: [Negative Numbers Practice](https://www.liveworksheets.com/worksheet/en/maths/Negative_Numbers_Practice_klgqkq)
-- **Fractions & Decimals**  
-  - Video: [Math Antics - Fractions](https://www.youtube.com/watch?v=Mjk0G9xob7A)  
-  - Practice: [Fractions Practice](https://www.liveworksheets.com/worksheet/en/maths/Fractions_Practice_kxgqkq)  
-  - Video: [Math Antics - Decimals](https://www.youtube.com/watch?v=K6kziiLkHRM)
-- **Factors & Multiples**  
-  - Video: [Math Antics - Factors & Multiples](https://www.youtube.com/watch?v=Y3xV5tFWp7M)  
+## 1. Numbers & Place Value
+- [Place Value](https://www.youtube.com/watch?v=RZl2MUwAwgU)
+- [Comparing Numbers](https://www.youtube.com/watch?v=Rz8dd0LyeKk)
+- [Rounding Numbers](https://www.youtube.com/watch?v=fd-E18EqSVk)
+
+---
+
+## 2. Arithmetic Operations
+- [Addition](https://www.youtube.com/watch?v=ds8qgx_xS-g)
+- [Subtraction](https://www.youtube.com/watch?v=9Q7Y9eyTa2A)
+- [Multiplication](https://www.youtube.com/watch?v=3chZH4xCyu8)
+- [Long Division](https://www.youtube.com/watch?v=HJ_PtEHwT4c)
+
+---
+
+## 3. Factors & Multiples
+- [Factors & Multiples](https://www.youtube.com/watch?v=2zRt0cXG9vQ)
+- [Prime Numbers](https://www.youtube.com/watch?v=ZZYsQhY24wY)
+- [Least Common Multiple (LCM)](https://www.youtube.com/watch?v=QkCKAOzNMCM)
+- [Greatest Common Factor (GCF)](https://www.youtube.com/watch?v=4HuAnM6b2d8)
+
+---
+
+## 4. Fractions
+- [Fractions Intro](https://www.youtube.com/watch?v=DnFrOetuUKg)
+- [Equivalent Fractions](https://www.youtube.com/watch?v=zLYECIjmnQs)
+- [Adding Fractions](https://www.youtube.com/watch?v=0Pa2gRrlm3I)
+- [Subtracting Fractions](https://www.youtube.com/watch?v=XYA5UXkfj94)
+- [Multiplying Fractions](https://www.youtube.com/watch?v=xL3xCO7CLNM)
+- [Dividing Fractions](https://www.youtube.com/watch?v=qmfXyR7Z6Lk)
+
+---
+
+## 5. Decimals
+- [Decimals Intro](https://www.youtube.com/watch?v=HrCPqTJSGuo)
+- [Adding Decimals](https://www.youtube.com/watch?v=Edkx3OaHvdE)
+- [Subtracting Decimals](https://www.youtube.com/watch?v=ovH__-tPw9Q)
+- [Multiplying Decimals](https://www.youtube.com/watch?v=OrzUL8BqWcA)
+- [Dividing Decimals](https://www.youtube.com/watch?v=Z6B1k9fIuXc)
+
+---
+
+## 6. Percents
+- [Percents Intro](https://www.youtube.com/watch?v=JeVSmq1Nrpw)
+- [Finding Percent of a Number](https://www.youtube.com/watch?v=r5RQd5lWw9o)
+- [Percent Word Problems](https://www.youtube.com/watch?v=s6FmrZT0DiI)
+
+---
+
+## 7. Exponents & Roots
+- [Exponents Intro](https://www.youtube.com/watch?v=Z2I-3aEbr0c)
+- [Square Roots](https://www.youtube.com/watch?v=QS6YjZx1q1Y)
+- [Cube Roots](https://www.youtube.com/watch?v=jDNR8qXgQGc)
+
+---
+
+## 8. Negative Numbers
+- [Intro to Negative Numbers](https://www.youtube.com/watch?v=oYp9U9YbJ5g)
+- [Adding Negative Numbers](https://www.youtube.com/watch?v=8KhKhG-t-yo)
+- [Subtracting Negative Numbers](https://www.youtube.com/watch?v=1D6jXTKYbYQ)
+- [Multiplying & Dividing Negatives](https://www.youtube.com/watch?v=AVf3x2ix9xk)
+- [Absolute Value](https://www.youtube.com/watch?v=19r0QHpjqkI)
+
+---
+
+## 9. Algebra Basics
+- [What is Algebra?](https://www.youtube.com/watch?v=3tF3tMyPBO4)
+- [Solving One-Step Equations](https://www.youtube.com/watch?v=1CSJ4tA_BwU)
+- [Two-Step Equations](https://www.youtube.com/watch?v=9xogHM2hUB8)
+- [Variables on Both Sides](https://www.youtube.com/watch?v=3AVsO5LsmSM)
+- [Distributive Property](https://www.youtube.com/watch?v=1n-HMSCDYtM)
+- [Inequalities](https://www.youtube.com/watch?v=7JYJbVVT5rA)
+
+---
+
+## 10. Geometry Basics
+- [Lines, Segments, Rays](https://www.youtube.com/watch?v=I5FQki4P9k4)
+- [Angles](https://www.youtube.com/watch?v=Z_O9sHhNioI)
+- [Triangles](https://www.youtube.com/watch?v=bnG6g5WJpQ0)
+- [Quadrilaterals](https://www.youtube.com/watch?v=cxQ1KEmGv2I)
+- [Circles](https://www.youtube.com/watch?v=96M7VXyK4YM)
+- [Area](https://www.youtube.com/watch?v=prjO7E--0fA)
+- [Perimeter](https://www.youtube.com/watch?v=piHDh8iwUZI)
+- [Volume](https://www.youtube.com/watch?v=lsO4yJ4_8Hk)
+
+---
+
+## 11. Advanced Arithmetic & Word Problems
+- [Ratios](https://www.youtube.com/watch?v=9ksnt2VKyWI)
+- [Proportions](https://www.youtube.com/watch?v=0qhL5cZLJdM)
+- [Unit Rates](https://www.youtube.com/watch?v=ct4P7Z8uT6c)
+- [Word Problems Practice](https://www.youtube.com/watch?v=5d9TLqLf4SM)
+
+---
+
+✅ Use the **videos for learning** + **Liveworksheets** for practice on each topic.  
+Work step by step, don’t skip topics.  - Video: [Math Antics - Factors & Multiples](https://www.youtube.com/watch?v=Y3xV5tFWp7M)  
   - Practice: [Factors & Multiples Practice](https://www.liveworksheets.com/worksheet/en/maths/Factors_Multiples_Practice_kxgqkq)
 - **Exponents & Roots**  
   - Video: [Math Antics - Exponents](https://www.youtube.com/watch?v=-zUmvpkhvW8)  
