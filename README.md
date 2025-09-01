@@ -1,23 +1,162 @@
-# Mathematics Basics Mastery — Video Roadmap (Math Antics)
+# Learn Basic Mathematics Roadmap 📘✨
 
-**Practice (search topics yourself):** https://www.liveworksheets.com/
+This is a **Learn Basic Mathematics Roadmap** — a complete topic & subtopic map of core math basics.  
+Use the practice site below to find worksheets for any topic you study.
+
+**Practice worksheets (search topics):** https://www.liveworksheets.com/
 
 ---
 
-## Numeracy
-- Place Value — https://www.youtube.com/watch?v=8oodBFUX8nQ
-- Decimal Place Value — https://www.youtube.com/watch?v=KG6ILNOiMgM
-- The Number Line — https://www.youtube.com/watch?v=fgbK6sRIEKk
-- Rounding — https://www.youtube.com/watch?v=n0FzhQ_GI4Q
-- Basic Inequalities — https://www.youtube.com/watch?v=F2VPD1BajFQ
-- Roman Numerals — https://www.youtube.com/watch?v=NUmYQzWi8EU
+## 1. Numbers & Place Value 🔢
+- Natural numbers, whole numbers, integers  
+- Place value & digit positions  
+- Number line & ordering  
+- Rounding & estimation  
+- Comparing numbers
 
-## Arithmetic (Foundations)
-- What is Arithmetic? — https://www.youtube.com/watch?v=lpZXxNwx_X0
-- Order of Operations (PEMDAS) — https://www.youtube.com/watch?v=dAgfnK528RA
-- Distributive Property in Arithmetic — https://www.youtube.com/watch?v=5ZjihpQbFcs
-- Factoring (common factors) — https://www.youtube.com/watch?v=Sso2Wn2E4jE
-- Prime Factorization — https://www.youtube.com/watch?v=HvMSRWTE2mI
+---
+
+## 2. Arithmetic Operations ➕➖✖️➗
+- Addition (single & multi-digit)  
+- Subtraction (single & multi-digit)  
+- Multiplication (tables, multi-digit)  
+- Division (short division, long division)  
+- Mental math & estimation
+
+---
+
+## 3. Factors & Multiples 🧩
+- Factors & common factors  
+- Multiples & common multiples  
+- Prime & composite numbers  
+- Greatest Common Factor (GCF) / Highest Common Factor (HCF)  
+- Least Common Multiple (LCM)  
+- Divisibility rules
+
+---
+
+## 4. Fractions & Mixed Numbers 🥧
+- Fraction basics (numerator, denominator)  
+- Types: proper, improper, mixed numbers  
+- Equivalent fractions & simplifying  
+- Common denominator / LCD  
+- Adding, subtracting, multiplying, dividing fractions  
+- Converting between mixed numbers and improper fractions
+
+---
+
+## 5. Decimals & Place Value 🔢➗
+- Decimal place value (tenths, hundredths, thousandths)  
+- Converting between fractions and decimals  
+- Adding, subtracting, multiplying, dividing decimals  
+- Repeating decimals & terminating decimals
+
+---
+
+## 6. Percents & Ratios 📊
+- Percent basics (what percent means)  
+- Converting between fractions, decimals, percents  
+- Finding a percent of a number  
+- Percentage change (increase / decrease)  
+- Ratios, unit rates, and proportions
+
+---
+
+## 7. Exponents & Roots ^ √
+- Exponent notation and meaning  
+- Laws of exponents (product, quotient, power rules)  
+- Zero and negative exponents (intro)  
+- Square roots and cube roots  
+- Scientific notation (intro)
+
+---
+
+## 8. Order of Operations (PEMDAS) 🧩
+- Parentheses / brackets / braces  
+- Exponents (and roots)  
+- Multiplication & division (left to right)  
+- Addition & subtraction (left to right)  
+- Nested expressions & multi-step evaluation
+
+---
+
+## 9. Negative Numbers & Absolute Value ➖🔼
+- Working with negative numbers on the number line  
+- Adding/subtracting negatives, multiplying/dividing negatives  
+- Absolute value (distance from zero)
+
+---
+
+## 10. Algebra Basics 🧠
+- Variables & algebraic expressions  
+- Combining like terms & simplifying expressions  
+- Solving one-step equations (undo operations)  
+- Solving two-step and multi-step equations  
+- Variables on both sides of the equation  
+- The distributive property & simple factoring  
+- Inequalities (intro)  
+- Translating word problems → equations
+
+---
+
+## 11. Coordinate Geometry & Graphing 📈
+- Cartesian plane & plotting points (x, y)  
+- Reading coordinates & quadrants  
+- Slope (rise/run) & interpreting slope  
+- Graphing simple linear equations  
+- Distance & midpoint (intro)
+
+---
+
+## 12. Geometry Basics 📐
+- Points, lines, rays, segments  
+- Angle types: acute, obtuse, right, straight, reflex  
+- Triangle types & triangle angle sum  
+- Quadrilaterals & polygons (properties)  
+- Circles: radius, diameter, circumference, area  
+- Perimeter & area formulas for common shapes  
+- Volume & surface area of prisms, cylinders, cones, spheres
+
+---
+
+## 13. Measurement & Units 📏
+- Metric and imperial basics (units of length, mass, volume)  
+- Unit conversions (within metric and between systems)  
+- Time, money, and practical measurements  
+- Area/volume unit conversions
+
+---
+
+## 14. Data, Probability & Statistics 🎲
+- Collecting and organizing data (tables)  
+- Mean, median, mode, range  
+- Bar charts, line graphs, pie charts  
+- Basic probability (single events, chance)  
+- Experimental vs theoretical probability
+
+---
+
+## 15. Problem Solving & Word Problems 🧩
+- Translate text into math (setup equations)  
+- Multi-step problems & organizing work  
+- Common types: speed/distance/time, work problems, mixtures, ratios, percent problems  
+- Check answers & reasonableness
+
+---
+
+## Resources & Downloads 📚⬇️
+- Practice worksheets (search topics): https://www.liveworksheets.com/  
+- **Super Simple Maths — download:** https://archive.org/details/super-simple-maths-by-dk-z-lib.org
+
+---
+
+### How to use this roadmap ✅
+1. Pick a topic (start with Numbers → Arithmetic → Fractions → Decimals).  
+2. Search that topic on Liveworksheets for practice.  
+3. Learn concept (watch videos you prefer or read a page in a book) → do practice problems → revise.  
+4. Don’t skip: complete the small subtopics listed under each heading before moving on.
+
+Happy learning — you’ve got a clear map now! 🚀- Prime Factorization — https://www.youtube.com/watch?v=HvMSRWTE2mI
 - Number Patterns — https://www.youtube.com/watch?v=dEX3X5eipf0
 
 ## Algorithms — Part 1 (Paper Methods)
